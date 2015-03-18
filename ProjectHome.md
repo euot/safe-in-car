@@ -1,0 +1,1 @@
+The app notify preset contacts, about possible accidental situation in case of a severe jerk (high acceleration value detected via sensor). Victim’s phone sends a message (other activities) to the emergency responders whenever user gets an accident.
